@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graph Visualization</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Graph Visualization</h1>
+    <form id="graphForm">
+        <label for="n">Number of vertices (n):</label><br>
+        <input type="number" id="n" name="n" value="10"><br>
+        <label for="p">Probability of edge (p):</label><br>
+        <input type="number" step="0.1" id="p" name="p" value="0.5"><br>
+        <input type="submit" value="Generate Graph">
+    </form>
+    <div id="graph"></div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
