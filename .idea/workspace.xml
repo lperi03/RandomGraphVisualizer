@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da5f5070-f90c-4e98-af82-2d83324168e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/library_fa22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomGraphBuilder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Lakshman/RandomGraphBuilder/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Lakshman/RandomGraphBuilder/ErdosRenyiGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Lakshman/RandomGraphBuilder/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Lakshman/RandomGraphBuilder/MST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Lakshman/RandomGraphBuilder/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="da5f5070-f90c-4e98-af82-2d83324168e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
